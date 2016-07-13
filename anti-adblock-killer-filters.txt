@@ -3570,4 +3570,4 @@ gaara-fr.com###pub01
 gaara-fr.com###ga-skin-left
 gaara-fr.com###ga-skin-right
 gaara-fr.com###ga-skin-top
-@@||timesofindia.indiatimes.com$elemhide
+@@||timesofindia.indiatimes.com^$elemhide
